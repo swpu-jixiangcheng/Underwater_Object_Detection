@@ -1,5 +1,4 @@
 # Underwater_Object_Detection
-Lightweight underwater object detection based on image enhancement and multi-attention
 
 The source code is for the paper titled "Lightweight underwater object detection based on image enhancement and multi-attention".
 
